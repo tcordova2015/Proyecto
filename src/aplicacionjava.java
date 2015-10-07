@@ -15,7 +15,14 @@ public class aplicacionjava {
      */
     public static void main(String[] args) {
         System.out.println("Aplicacion Java version 1"); 
-                        
+        
+        
+        
+        
+        
+        
+        
+        System.out.println("Aplicacion Java version 2");                 
     }
     
 }
